@@ -1,1 +1,3 @@
 # What I Did Today
+
+What I did today, is a PHP application, which keeps the record of daily activities in professional work. In any organization, it is good practice to keep the record of daily activities related to any professional task assigned. By this way, employees can store data, which they can use in future. This will also help the newly hired employees to understand the work pattern. After few years this record will be considered a big asset for a company, that what I promise. 
